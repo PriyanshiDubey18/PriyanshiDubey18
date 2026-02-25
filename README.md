@@ -1,9 +1,17 @@
-- 👋 Hi, I’m @Priyanshi Dubey
-- 👀 I’m interested in learning & building projects on AI 
-- 🌱 I’m currently pursuing an MSc in Artificial Intelligence 
+👋 Hi, I’m Priyanshi Dubey
+
+I’m an AI Solutions–focused MSc Artificial Intelligence graduate interested in business-facing AI delivery: turning ideas into prototypes, validating them with users, and communicating results, limitations, and next-step recommendations clearly.
+
+🔍 Current focus: GenAI / AI Solutions case studies (problem → approach → evaluation → roadmap)
+
+📌 Featured
+- Real-Time BSL Recognition — real-time gesture recognition (99.17% test accuracy, 18–22 FPS)
 
 
-<!---
-PriyanshiDubey18/PriyanshiDubey18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🧪 Foundation projects (built during undergrad to strengthen ML fundamentals)
+- Fake News Detection (NLP)
+- Face Detection & Recognition (CV)
+
+🔗 Links
+- LinkedIn: www.linkedin.com/in/priyanshi-dubey
+- Email: priyanshidubey4729@gmail.com
