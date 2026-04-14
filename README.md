@@ -6,6 +6,7 @@ I’m an AI Solutions–focused MSc Artificial Intelligence graduate interested 
 
 📌 Featured
 - Real-Time BSL Recognition — real-time gesture recognition (99.17% test accuracy, 18–22 FPS)
+- AI Document Analyser (Python·OpenAI API·Streamlit·pdfplumber)
 
 
 🧪 Foundation projects (built during undergrad to strengthen ML fundamentals)
